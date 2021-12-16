@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
+# This is the 2021 Fall ATAI chatbot project of bot_922.
+-*- coding: utf-8 -*-
 """
 Created on Wed Dec 15 12:11:51 2021
 
 @author: Wenqing
 """
-This is the 2021 Fall ATAI chatbot project of bot_922.
+
 
 First, to run the project, one should follow the following steps.
 
